@@ -12,6 +12,9 @@ public class Raetsel7 {
         return true;
     }
 
+
+
+
     public static void main(String[] args) {
         int AktuelleZahl = 0;
 
