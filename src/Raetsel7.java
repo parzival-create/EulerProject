@@ -12,6 +12,9 @@ public class Raetsel7 {
         return true;
     }
 
+
+
+
     public static void main(String[] args) {
         int AktuelleZahl = 0;
 
@@ -25,8 +28,6 @@ public class Raetsel7 {
                 System.out.println("10001. Primzahl ist: " + AktuelleZahl);
 
             }
-
-
         }
     }
 }
