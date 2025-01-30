@@ -25,8 +25,6 @@ public class Raetsel7 {
                 System.out.println("10001. Primzahl ist: " + AktuelleZahl);
 
             }
-
-
         }
     }
 }
